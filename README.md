@@ -104,11 +104,14 @@ We welcome contributions to improve this project. Please follow these guidelines
 
 ## Screenshots
 
-### Customer Dashboard:
-![Customer Dashboard](screenshots/userUI.png)
+### Login Page:
+![Login page](screenshots/1.png)
 
-### Hotel Manager Dashboard:
-![Hotel Manager Dashboard](screenshots/adminUI.png)
+### Register Page:
+![Register page](screenshots/2.png)
+
+### User profile Page:
+![User profile page](screenshots/3.png)
 
 ## License
 
