@@ -105,13 +105,13 @@ We welcome contributions to improve this project. Please follow these guidelines
 ## Screenshots
 
 ### Login Page:
-![Login page](screenshots/1.png)
+![Login page](screenshots/1.jpg)
 
 ### Register Page:
-![Register page](screenshots/2.png)
+![Register page](screenshots/2.jpg)
 
 ### User profile Page:
-![User profile page](screenshots/3.png)
+![User profile page](screenshots/3.jpg)
 
 ## License
 
